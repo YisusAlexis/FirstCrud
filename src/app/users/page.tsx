@@ -176,7 +176,7 @@ export default function UsersPage() {
 
       {/* Modal para editar usuario */}
       <Modal
-        title="Editar Usuario"
+        title="Editar UsuarioXXXXX"
         open={isModalOpen}
         onCancel={() => setIsModalOpen(false)}
         onOk={handleUpdate}
